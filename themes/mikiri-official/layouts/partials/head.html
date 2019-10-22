@@ -4,9 +4,9 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <title>{{ .Title }} {{ if not .IsHome }} - {{ .Site.Title }} {{ end }}</title>
 
-  <script src='{{ .Site.BaseURL  }}{{ "/js/jquery-3.4.1.min.js" | relURL }}'></script>
-  <script src='{{ .Site.BaseURL  }}{{ "/js/bootstrap.min.js" | relURL }}'></script>
+  <script src="{{ .Site.BaseURL  }}/js/jquery-3.4.1.min.js"></script>
+  <script src="{{ .Site.BaseURL  }}/js/bootstrap.min.js"></script>
 
-  <link rel="stylesheet" href='{{ .Site.BaseURL  }}{{ "css/bootstrap.min.css" | relURL }}'>
-  <link rel="stylesheet" href='{{ .Site.BaseURL  }}{{ "css/style.css" | relURL }}'>
+  <link rel="stylesheet" href="{{ .Site.BaseURL  }}/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="{{ .Site.BaseURL  }}/css/style.css" />
 </head>
