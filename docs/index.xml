@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>見切り発車P Official</title>
-    <link>http://example.org/</link>
+    <link>https://mi-ki-ri.github.io/official/</link>
     <description>Recent content on 見切り発車P Official</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Oct 2019 07:59:01 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi-ki-ri.github.io/official/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ボカロ曲「夢千夜」を投稿しました！</title>
-      <link>http://example.org/news/yumesennya/</link>
+      <link>https://mi-ki-ri.github.io/official/news/yumesennya/</link>
       <pubDate>Wed, 23 Oct 2019 07:59:01 +0900</pubDate>
       
-      <guid>http://example.org/news/yumesennya/</guid>
+      <guid>https://mi-ki-ri.github.io/official/news/yumesennya/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/index/about/</link>
+      <link>https://mi-ki-ri.github.io/official/index/about/</link>
       <pubDate>Wed, 23 Oct 2019 07:40:19 +0900</pubDate>
       
-      <guid>http://example.org/index/about/</guid>
+      <guid>https://mi-ki-ri.github.io/official/index/about/</guid>
       <description>見切り発車Pのオフィシャルサイトにようこそ！
 見切り発車Pは主にNiconicoにボカロ曲を投稿しているボカロPです。
 2週間～1ヶ月に一度程度のペースで投稿しています。
