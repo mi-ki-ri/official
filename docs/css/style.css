@@ -66,6 +66,10 @@ body{
     border-radius: 5px;
 }
 
+h2,h3{
+    font-size: 1rem;
+}
+
 /*スクロールバー全体*/
 ::-webkit-scrollbar {
     width: 5px;
