@@ -4,3 +4,10 @@ title = "見切り発車P Official"
 theme = "mikiri-official"
 publishDir = "docs"
 googleAnalytics = "UA-150750990-1"
+
+[params]
+  description = "見切り発車Pの公式だよ"
+  images = ["https://mi-ki-ri.github.io/official/favicon.png"]
+  title = "見切り発車P Official"
+
+disqusShortname = "mikirihasshap-official"
