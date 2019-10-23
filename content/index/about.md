@@ -14,3 +14,4 @@ draft: false
 
 - FenderJapan Stratocaster
 - Apple Macbook Pro
+- Vocaloid 猫村いろは
