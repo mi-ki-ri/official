@@ -6,10 +6,87 @@
     <description>Recent content on 見切り発車P Official</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Oct 2019 18:50:49 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2019 19:03:11 +0900</lastBuildDate>
     
 	<atom:link href="https://mi-ki-ri.github.io/official/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>オフィシャルサイト作成中</title>
+      <link>https://mi-ki-ri.github.io/official/blog/2019-10-23/</link>
+      <pubDate>Wed, 23 Oct 2019 19:03:11 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/blog/2019-10-23/</guid>
+      <description>作成中。
+Hugoというエンジンを使ってMarkdownをHTMLに変えている。
+例えばWordpressだったらPHPを動かしたり、DBに保存したりという処理があるが、
+HTMLはベタッと置くだけ。
+ただし、インタラクティブな処理はできない。
+まあ発信するだけならいいかなって感じだ。</description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>https://mi-ki-ri.github.io/official/links/youtube/</link>
+      <pubDate>Wed, 23 Oct 2019 19:01:01 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/links/youtube/</guid>
+      <description>https://www.youtube.com/channel/UCHp6PulTQBtgjhle2Zy2qzw</description>
+    </item>
+    
+    <item>
+      <title>Niconico</title>
+      <link>https://mi-ki-ri.github.io/official/links/niconico/</link>
+      <pubDate>Wed, 23 Oct 2019 19:00:46 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/links/niconico/</guid>
+      <description>https://www.nicovideo.jp/user/15282240</description>
+    </item>
+    
+    <item>
+      <title>Hatenablog</title>
+      <link>https://mi-ki-ri.github.io/official/links/hatebulo/</link>
+      <pubDate>Wed, 23 Oct 2019 19:00:08 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/links/hatebulo/</guid>
+      <description>http://mi-ki-ri.hatenablog.jp/</description>
+    </item>
+    
+    <item>
+      <title>Soundcloud</title>
+      <link>https://mi-ki-ri.github.io/official/links/soundcloud/</link>
+      <pubDate>Wed, 23 Oct 2019 18:59:19 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/links/soundcloud/</guid>
+      <description>https://soundcloud.com/mi_ki_ri</description>
+    </item>
+    
+    <item>
+      <title>Bandcamp</title>
+      <link>https://mi-ki-ri.github.io/official/links/bandcamp/</link>
+      <pubDate>Wed, 23 Oct 2019 18:58:36 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/links/bandcamp/</guid>
+      <description>https://mikirihasshap.bandcamp.com/</description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>https://mi-ki-ri.github.io/official/links/twitter/</link>
+      <pubDate>Wed, 23 Oct 2019 18:58:13 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/links/twitter/</guid>
+      <description>https://twitter.com/mi_ki_ri</description>
+    </item>
+    
+    <item>
+      <title>pixivFANBOX</title>
+      <link>https://mi-ki-ri.github.io/official/links/pixiv/</link>
+      <pubDate>Wed, 23 Oct 2019 18:56:23 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/links/pixiv/</guid>
+      <description>https://www.pixiv.net/fanbox/creator/3538801</description>
+    </item>
     
     <item>
       <title>見切り発車ワークス 2019年上半期</title>
