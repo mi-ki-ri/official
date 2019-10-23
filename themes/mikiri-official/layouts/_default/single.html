@@ -11,8 +11,8 @@
                 <section>{{.Content}}</section>
                 <p>{{.Date.Format "2006-01-02"}}</p>
             </section>
+            {{ template "_internal/disqus.html" . }}
             {{ partial "disqus.html" . }}
-
 
         </div>
       </main>
