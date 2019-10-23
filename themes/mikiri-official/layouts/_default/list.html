@@ -66,6 +66,8 @@
               </section>
           {{ else }}
           <section class="col-md">
+              <h2>{{.Title}}
+                </h2>
             {{ range (.Paginator 20).Pages }}
             <div class="card" style="width: 100%;">
               <div class="card-body">
