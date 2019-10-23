@@ -3,20 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mi-ki-ri.github.io/official/links/bookmeter/</loc>
-    <lastmod>2019-10-23T19:46:20+09:00</lastmod>
+    <loc>https://mi-ki-ri.github.io/official/links/</loc>
+    <lastmod>2019-10-23T19:47:28+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mi-ki-ri.github.io/official/links/</loc>
-    <lastmod>2019-10-23T19:46:20+09:00</lastmod>
-    <priority>0</priority>
+    <loc>https://mi-ki-ri.github.io/official/links/qiita/</loc>
+    <lastmod>2019-10-23T19:47:28+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://mi-ki-ri.github.io/official/</loc>
-    <lastmod>2019-10-23T19:46:20+09:00</lastmod>
+    <lastmod>2019-10-23T19:47:28+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mi-ki-ri.github.io/official/links/bookmeter/</loc>
+    <lastmod>2019-10-23T19:46:20+09:00</lastmod>
   </url>
   
   <url>
