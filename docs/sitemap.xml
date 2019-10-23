@@ -3,18 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mi-ki-ri.github.io/official/links/bookmeter/</loc>
+    <lastmod>2019-10-23T19:46:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mi-ki-ri.github.io/official/links/</loc>
+    <lastmod>2019-10-23T19:46:20+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mi-ki-ri.github.io/official/</loc>
+    <lastmod>2019-10-23T19:46:20+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mi-ki-ri.github.io/official/links/kakuyomu/</loc>
+    <lastmod>2019-10-23T19:40:57+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mi-ki-ri.github.io/official/works/adventure/</loc>
     <lastmod>2019-10-23T19:24:27+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://mi-ki-ri.github.io/official/works/</loc>
-    <lastmod>2019-10-23T19:24:27+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mi-ki-ri.github.io/official/</loc>
     <lastmod>2019-10-23T19:24:27+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -52,12 +68,6 @@
   <url>
     <loc>https://mi-ki-ri.github.io/official/links/frekul/</loc>
     <lastmod>2019-10-23T19:11:50+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mi-ki-ri.github.io/official/links/</loc>
-    <lastmod>2019-10-23T19:11:50+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
