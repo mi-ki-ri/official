@@ -45,9 +45,28 @@
               >
             </p>
           </section>
+          <section class="col-md-12">
+                <h2>ブログ</h2>
+                {{ range first 5 ( where .Data.Pages "Section" "blog" ) }}
+                <div class="card" style="width: 100%;">
+                  <div class="card-body">
+                    <h3 class="card-title">
+                      {{.Title}} ({{.Date.Format "2006-01-02" }})
+                    </h3>
+    
+                    <a href="{{.Permalink}}" class="btn btn-primary">続きを読む</a>
+                  </div>
+                </div>
+                {{ end }}
+                <p class="mt-2">
+                  <a class="btn btn-primary" href="{{.Site.BaseURL}}/blog"
+                    >さらに古いブログ</a
+                  >
+                </p>
+              </section>
           {{ else }}
           <section class="col-md">
-            {{ range (.Paginator 12).Pages }}
+            {{ range (.Paginator 20).Pages }}
             <div class="card" style="width: 100%;">
               <div class="card-body">
                 <h3 class="card-title">
