@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mi-ki-ri.github.io/official/news/2019-10-24/</loc>
+    <lastmod>2019-10-24T19:39:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mi-ki-ri.github.io/official/news/</loc>
+    <lastmod>2019-10-24T19:39:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mi-ki-ri.github.io/official/</loc>
+    <lastmod>2019-10-24T19:39:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mi-ki-ri.github.io/official/blog/</loc>
     <lastmod>2019-10-23T20:35:06+09:00</lastmod>
     <priority>0</priority>
@@ -11,12 +28,6 @@
   <url>
     <loc>https://mi-ki-ri.github.io/official/blog/2019-10-23-2/</loc>
     <lastmod>2019-10-23T20:35:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mi-ki-ri.github.io/official/</loc>
-    <lastmod>2019-10-23T20:35:06+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -145,12 +156,6 @@
   <url>
     <loc>https://mi-ki-ri.github.io/official/vocaloid/yumesennya/</loc>
     <lastmod>2019-10-23T18:49:46+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mi-ki-ri.github.io/official/news/</loc>
-    <lastmod>2019-10-23T07:59:01+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
