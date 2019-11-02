@@ -6,10 +6,19 @@
     <description>Recent content in Vocaloids on 見切り発車P Official</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Oct 2019 18:49:46 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 23:37:47 +0900</lastBuildDate>
     
 	<atom:link href="https://mi-ki-ri.github.io/official/vocaloid/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ヴェール</title>
+      <link>https://mi-ki-ri.github.io/official/vocaloid/veil/</link>
+      <pubDate>Sat, 02 Nov 2019 23:37:47 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/vocaloid/veil/</guid>
+      <description>【猫村いろは】 ヴェール 【オリジナル】</description>
+    </item>
     
     <item>
       <title>夢千夜</title>
