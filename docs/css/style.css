@@ -49,8 +49,10 @@ body{
     height: 80vh;
     min-height: 80vh;
     max-height: 80vh;
+    /*
     border-left: 50px solid var(--sub-bg-color);
     border-right: 50px solid var(--sub-bg-color);
+    */
     overflow-y: scroll;
 }
 
