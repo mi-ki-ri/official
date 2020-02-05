@@ -15,7 +15,8 @@
             <p class="text-center heroImageText">よく見るアイコン</p>
           </section>
           <section class="col-md-6">
-            {{ range first 1 ( where .Data.Pages "Section" "index" ) }}
+            {{ $i := .Site.GetPage "/index" }}
+            {{ range first 1 $i.Data.Pages }}
 
             <div class="card" style="width: 100%;">
               <div class="card-body">
@@ -28,7 +29,8 @@
           </section>
           <section class="col-md-6">
             <h2>ニュース</h2>
-            {{ range first 5 ( where .Data.Pages "Section" "news" ) }}
+            {{ $t := ( .Site.GetPage "/news" )}}
+            {{ range first 5 $t.Data.Pages }}
             <div class="card" style="width: 100%;">
               <div class="card-body">
                 <h3 class="card-title">
@@ -47,7 +49,8 @@
           </section>
           <section class="col-md-6">
                 <h2>ブログ</h2>
-                {{ range first 5 ( where .Data.Pages "Section" "blog" ) }}
+                {{ $b :=  ( .Site.GetPage "/blog" ) }}
+                {{ range first 5 $b.Data.Pages }}
                 <div class="card" style="width: 100%;">
                   <div class="card-body">
                     <h3 class="card-title">
