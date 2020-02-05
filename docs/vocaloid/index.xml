@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vocaloids on 見切り発車P Official</title>
@@ -6,10 +6,46 @@
     <description>Recent content in Vocaloids on 見切り発車P Official</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Dec 2019 20:08:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 13:48:29 +0900</lastBuildDate>
     
 	<atom:link href="https://mi-ki-ri.github.io/official/vocaloid/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>チョコちゃんに癒やされる</title>
+      <link>https://mi-ki-ri.github.io/official/vocaloid/choco/</link>
+      <pubDate>Wed, 05 Feb 2020 13:48:29 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/vocaloid/choco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ネオブルーズ</title>
+      <link>https://mi-ki-ri.github.io/official/vocaloid/neoblues/</link>
+      <pubDate>Wed, 05 Feb 2020 13:48:06 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/vocaloid/neoblues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ストーミーマンデー</title>
+      <link>https://mi-ki-ri.github.io/official/vocaloid/stormymonday/</link>
+      <pubDate>Wed, 05 Feb 2020 13:47:29 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/vocaloid/stormymonday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>他人事</title>
+      <link>https://mi-ki-ri.github.io/official/vocaloid/taningoto/</link>
+      <pubDate>Wed, 05 Feb 2020 13:47:00 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/vocaloid/taningoto/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>スージーイージー</title>
@@ -17,7 +53,7 @@
       <pubDate>Wed, 25 Dec 2019 20:08:00 +0900</pubDate>
       
       <guid>https://mi-ki-ri.github.io/official/vocaloid/suzieeasy/</guid>
-      <description>【猫村いろは】 スージーイージー 【オリジナル】</description>
+      <description></description>
     </item>
     
     <item>
@@ -26,7 +62,7 @@
       <pubDate>Fri, 06 Dec 2019 04:27:56 +0900</pubDate>
       
       <guid>https://mi-ki-ri.github.io/official/vocaloid/yukimushi/</guid>
-      <description>【猫村いろは】 雪虫 【オリジナル】</description>
+      <description></description>
     </item>
     
     <item>
@@ -35,7 +71,7 @@
       <pubDate>Thu, 28 Nov 2019 22:13:54 +0900</pubDate>
       
       <guid>https://mi-ki-ri.github.io/official/vocaloid/cityblues/</guid>
-      <description>【猫村いろは】 シティブルーズ 【オリジナル】</description>
+      <description></description>
     </item>
     
     <item>
@@ -53,7 +89,7 @@
       <pubDate>Sat, 02 Nov 2019 23:37:47 +0900</pubDate>
       
       <guid>https://mi-ki-ri.github.io/official/vocaloid/veil/</guid>
-      <description>【猫村いろは】 ヴェール 【オリジナル】</description>
+      <description></description>
     </item>
     
     <item>
