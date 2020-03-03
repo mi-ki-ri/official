@@ -6,10 +6,20 @@
     <description>Recent content in News on 見切り発車P Official</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2020 23:25:27 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 16:52:34 +0900</lastBuildDate>
     
 	<atom:link href="https://mi-ki-ri.github.io/official/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ブログを外部サイト化しました</title>
+      <link>https://mi-ki-ri.github.io/official/news/2020-03-03/</link>
+      <pubDate>Tue, 03 Mar 2020 16:52:34 +0900</pubDate>
+      
+      <guid>https://mi-ki-ri.github.io/official/news/2020-03-03/</guid>
+      <description>ここ。
+Wordpress使用。</description>
+    </item>
     
     <item>
       <title>右ペインをボカロ曲欄にした</title>
