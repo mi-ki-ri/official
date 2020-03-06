@@ -15,3 +15,5 @@ draft: false
 - FenderJapan Stratocaster
 - Apple Macbook Pro
 - Vocaloid 猫村いろは
+
+[Ofuse](https://ofuse.me/#users/16934)から投げ銭も可能です。投げてね。
